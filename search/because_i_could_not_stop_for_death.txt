@@ -1,0 +1,91 @@
+====
+be1
+
+Because I could not stop for Death--
+He kindly stopped for me-- 
+   -> have8
+
+====
+to2
+
+Emily Dickinson - Because I could not stop for Death
+ 
+   -> the0
+
+====
+of3
+
+For only Gossamer, my Gown-- 
+My Tippet--only Tulle-- 
+   -> not12
+
+====
+and4
+
+Since then--'tis Centuries--and yet 
+Feels shorter than the Day 
+   -> that7
+
+====
+a5
+
+Or rather--He passed us-- 
+The Dews drew quivering and chill-- 
+   -> of3
+
+====
+in6
+
+We slowly drove--He knew no haste 
+And I had put away 
+   -> on13
+
+====
+that7
+
+I first surmised the Horses' Heads 
+Were toward Eternity-- 
+   -> to2
+
+====
+have8
+
+The Carriage held but just Ourselves-- 
+And Immortality.
+   -> in6
+
+====
+I9
+
+We passed the Fields of Gazing Grain-- 
+We passed the Setting Sun-- 
+   -> a5
+
+====
+it10
+
+The Roof was scarcely visible-- 
+The Cornice--in the Ground-- 
+   -> and4
+
+====
+for11
+
+We passed the School, where Children strove 
+At Recess--in the Ring-- 
+   -> I9
+
+====
+not12
+
+We paused before a House that seemed 
+A Swelling of the Ground-- 
+   -> it10
+
+====
+on13
+
+My labor and my leisure too, 
+For His Civility-- 
+   -> for11
+

@@ -1,0 +1,3 @@
+a. You walk into a stone room, torches flicker on the wall.
+   To walk into the darkened doorway go to line
+   To examine the ancient bookshelf go to line

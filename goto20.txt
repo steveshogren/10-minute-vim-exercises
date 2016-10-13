@@ -1,0 +1,21 @@
+go to:  7
+go to: 14
+go to:  8
+go to: 16
+go to: 11
+go to: 5
+go to:  3
+go to: 15
+go to: 18
+go to:  2
+go to:  4
+go to: 13
+go to: 21
+go to: 17
+go to: 10
+go to:  9
+go to:  6
+go to:  20
+go to: 12
+go to: 19
+FINISH!

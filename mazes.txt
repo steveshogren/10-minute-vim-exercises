@@ -1,0 +1,194 @@
+
+START-----| |-| |--| |--|  |--| |-|
+          | | |-|  | |  |--|  | | |   
+     |-|  | |      | |        | | |-|
+     | |  | | |----| | |------| |   |             
+     | |--| | |      | |        | |-|            
+     |      | |      | | |------| |             
+     |------| |------| |-|        |---END          
+
+
+                                          
+START-----|    |--| |-|      |---| |---|
+          | |--|  | | | |----|   | |   |  
+    |--|  | |     |-| | |        |-|   |
+ |--|  |  | |---|     | |  |--|        |         
+ |     |--|     | |---| |  |  |--------|       
+ |          |-| | |     |  |                     
+ |--| |--|  | | | |---| |  |  |----|            
+    |-|  |--| |-|     |-|  |--|    |--|END          
+
+
+aaa aaaaaa      aaaaa
+a a a    a      a   aaaaa
+  a aa  aa      a       a     
+aaa  a  a       aa      a     
+a   aa  a  aaa   aaaaa  a     
+aaaaa  aa  a a       a  aaa   
+       a  aa a aaaa  a    aa 
+       aaaa  aaa  aaaa     
+
+                aaaa      aaa            
+aaa    aaa      a  aaa   aa a            
+  aa  aa aa     aa   a   a aa            
+   a  a   aaaa   a   a   a a  a          
+   a  a      aa  aa  aaaaa a  a          
+   a  aa      a   aaa     aa  a          
+  aa   aa   aa      a   aaa   a          
+  a     aa  a  aaa  a   a  aaaa          
+  a      a  aaaa aaaa   aaaa             
+  aaaaaaaa
+
+
+ aa                    aaa         aaaaaaaa aaa    
+ a                   aaa a         a      aaa aa   
+aa                  aa  aa         aa aa       a   
+a                 aaa   a           aa aa      a   
+aa                a    aa            aa a      a   
+ aa               a  aaa              aaa    aaa   
+  aa           aaaa aa     aaa             aaa     
+   aa         aa    a      a aaa          aa       
+    aaaaa   aaa     aaa   aa   aa       aaa        
+        aa  a         aa aa     aa aaaaaa          
+         aaaa          aaa       aaa               
+
+
+
+  fghijklmnopqrs           uts     edcb              
+cde            t  ghijk   wv r     f  a              
+b            wvu ef   l   x  q  jihg yz              
+a             x  cd    m   yz p lk    x               
+             yzab    on    a onm    vw               
+                     p    cb    qrstu                
+                     q          p                    
+                     r xyz      m                  
+                     s w ab     l                  
+                     tuv  cd   jk                  
+                           efghi                   
+
+fedcba                         qrs                 
+g                     yza     op t                 
+hi                    x bc    n  u                 
+ j              opqr vw  de  lm wv      wxy        
+lk           klmn  stu    f  k yx       v zabc     
+m         ghij            ghij z        u    d     
+n        ef                    ab       t  gfe     
+o        d                      c       s ih       
+p        c                      d       r j        
+qr      ab                      e  jkl pq kl    stu
+ stuvwxyz                       fghi mno   mnopqr v
+
+
+def      stu             efg     mno               
+c g      r vwxy         cd h     l pqrs            
+b hij    qp   zabc     ab ji     k    tuvw         
+a   kl    o      d     z lk      jihg    xyz       
+     m    nm     ef    y m          fed            
+     nopqr lkji   g    x nopq uvw     cbaz         
+         s    hg ih   vw    rst x        yxwv      
+         tuv   f j  stu        zy           u      
+           w  de kl r          a     klmno st      
+           xy c   m q          b    ij   pqr       
+            zab   nop          cdefgh              
+
+
+              pqrstuv                       zabcd  
+ab          mno     wxy                    xy   e  
+ c        jkl         za                   w   gf  
+ed        i            b          wxy      vu  h  o
+f         h            c    xyz tuv z       t  ij n
+g      defg            d   vw a s   abc    rs   klm
+h     bc              fe  tu  b rqp   d   pq       
+i     a              hg  rs   cd  o   ef no        
+j pqr zy             i  pq     ef nm   g m         
+k o s  x             j  o       g  l   h l         
+lmn tuvw             klmn       hijk   ijk         
+
+
+
+d       jklm qrstuvwx defghijklmnop        klm     
+e       i  nop      y c           qr      ij n     
+fg      h           zab            st     h  o     
+ h      g     onmlk         qpon    uvw   g  p     
+ji      fe    p   jihg  vutsr  ml     xy ef rq     
+k        d    q      f  w       kj     z d ts      
+l      abc    rstu   e  x  abc   i     abc u       
+m      z         v   d  y  z defgh         v       
+nop   xy         w   cbaz  y           gfe wx      
+  qr  w          x         xw  rqpon jih d  y      
+   stuv         zy          vuts   mlk   cbaz      
+
+
+   cdefg     cdefghij                              
+  ab   hi   ab      klm                            
+        j   z         nop                          
+        k   yxwv        q                          
+        l      u     utsr                          
+       nm      t     v   rqp                       
+vutsrqpo       s    xw  ts on                      
+w           opqr    y  vu   m                      
+xy        lmn       za w  jkl                      
+ z        k          bc ghi                        
+ abcdefghij           def                          
+
+
+
+h                                                  
+i                                                  
+j    uvwx  qrst                                    
+k  rst  y op  u        tuvw       qrs              
+l  q   az n   v        s  x       p tu             
+mnop   b lm   w        rq y       o  vwxy     klm  
+      dc k    xy  fgh   p zabcdef nm    za  hij n  
+      e  j     za e ij no       gh l     bc g   opq
+      fghi      bcd  klm         ijk      def     r
+
+
+dcb                        opq    bcd    mno                 
+e a                        n rs  za efg  l p                 
+f              opq       klm  t  y    hijk qr vwx            
+ghi            n rs     ij    uvwx          stu yz           
+  jk          lm  t    gh         vutsrq         a           
+   l          k   uvw  f         xw    pon    edcb           
+  nm  xyzab   j     x de         y kji   ml  gf              
+  o   w   cd  i     y c          z   h    kjih               
+  pq  v    efgh     zab          abc g                       
+   rstu                            def                       
+
+
+bcd  ijk                                                     
+a efgh l                                                     
+       m                                                     
+      on                                         vut         
+      p                                          w sr        
+      q                                 cdefgh   x  q  jih   
+      r                        abcde   ab    i   y  po k gf  
+      s    def                 z   f   z     j   zab nml  edc
+      t    c ghi          fgh  yxw ghi yxwv lk     c        b
+      uv  ab   j        cde ijk  vu  jk   u m      defgh   za
+       wxyz    kl  stu  b     lm  t   lm  t no         ij  y 
+                mn r v  a      n  s    no s  p          kl x 
+                 opq wxyz      opqr     pqr  qrs    fgh    w 
+                                               t    e ijkl vu
+                                               u  bcd    m  t
+                                               v za      no s
+                                               wxy        pqr
+
+
+                                     efg                     
+                                    cd h                     
+                                 yzab  i                     
+                               vwx     jk                    
+           klm                 u        lm                   
+          ij n                 t         n                   
+          h  opq               s         op                s 
+          g    rstu            r          qr             pqr 
+ba      def       v            qpo         st            o   
+c      bc      zyxw              n          u            nm  
+d   xyza       a                 m          v             l  
+e   w         cb                 l          w             kj 
+fgh v         d                ijk         yx  mnop        ih
+  i uts       efg              h          az   l  qrs       g
+  jk  r         hi        vwx  gf         b    k    tu     ef
+   l pq          jk      tu yz  e         c    j     vwx bcd 
+   mno            lmnopqrs   abcd         defghi       yza   
