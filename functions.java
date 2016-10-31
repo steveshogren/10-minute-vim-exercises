@@ -1,55 +1,29 @@
 public class SomeClass {
 
-    private static final String OUTPUT_FORMAT = "%-15s %4s %4s %5s %4s %-15s %s";
-
-    private static final String[] HEADER = new String[] {
-        "Filesystem",
-        "Size",
-        "Used",
-        "Avail",
-        "Use%",
-        "Mounted on",
-        "Type"
+    private static final String[] SOURCE = new String[] {
+        "1-345-Filesystem",
+        "2-321-Size",
+        "3-543-Used",
+        "4-082-Avail",
+        "5-543-Test",
+        "6-543-Ack",
+        "7-085-Perm",
+        "8-112-Use%",
+        "9-001-Mounted on",
+        "1-811-Type"
     };
+
     private static final String[] IHEADER = new String[] {
-        "Filesystem",
-        "Inodes",
-        "IUsed",
-        "IFree",
-        "IUse%",
-        "Mounted on",
-        "Type"
+        "Next",
+        "There",
+        "Is",
+        "A",
+        "Word",
+        "To",
+        "Avoid",
+        "Using",
+        "Without",
+        "You"
     };
 
-
-    public SomeClass(Shell shell) {
-        super(shell);
-        setOutputFormat(OUTPUT_FORMAT);
-        this.completer = new FileCompleter(shell);
-    }
-
-    public SomeClass() {
-        super();
-        setOutputFormat(OUTPUT_FORMAT);
-    }
-
-    public GetlineCompleter getCompleter() {
-        return this.completer;
-    }
-
-    protected boolean validateArgs(String[] args) {
-        return true;
-    }
-
-    public String getSyntaxArgs() {
-        return "[filesystem]";
-    }
-
-    public String getUsageShort() {
-        return "Report filesystem disk space usage";
-    }
-
-    public void printHeader() {
-        printf(this.opt_i ? IHEADER : HEADER);
-    }
 }
