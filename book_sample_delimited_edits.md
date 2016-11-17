@@ -58,8 +58,8 @@ Use the file
 You will find a story filled with random numbers all containing the number `0`,
 sometimes surrounded with punctuation. Remove all numbers, quotes, angle
 brackets, curly brackets, square brackets, and parentheses using search `/` and
-delimited regions. Search for the number "0", and use `n` to find the next
-number. Then use delimited regions to delete the whole number and any
+delimited regions. Search for the number `0` with `/0` and use `n` to find the
+next number. Then use delimited regions to delete the whole number and any
 surrounding punctuation.
 
 #### Exercise - Change
