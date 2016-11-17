@@ -35,6 +35,8 @@ anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 |---------|---------------------------------------------|
 | `da(`   | Delete contents AND surrounding parenthesis |
 | `dis`   | Delete current sentence                     |
+| `ci(`   | Change inside parenthesis                   |
+| `ciw`   | Change current word                         |
 | `dip`   | Delete inside current paragraph             |
 | `diw`   | Delete current word                         |
 | `daw`   | Delete current word and following space     |
@@ -50,6 +52,13 @@ brackets, square brackets, and parentheses using search `/` and delimited
 regions. Search for the number "0", and use `n` to find the next number. Then
 use delimited regions to swiftly delete the whole number and any surrounding
 punctuation.
+
+#### Exercise - Change
+
+Use the file [html\_sample.html](html\_sample.html). Change all the words inside
+angle brackets, quotes, parens, and tags to be the word "cat". For example,
+<html> can be changed to <cat> by moving the cursor inside the angle brackets
+and typing `ci<cat`
 
 #### Exercise - Visual
 
