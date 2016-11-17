@@ -6,10 +6,12 @@ The included exercises _are_ contrived - they are designed to teach you the
 muscle memory needed to perform the specific command. They are designed to be
 performed on a pristine file: we recommend cloning this repository with `git
 clone git@github.com:steveshogren/10-minute-vim-exercises.git`and running a `git
-checkout` after each exercise to bring the file back to the start state.
+checkout` after each exercise to bring the files back to their pristine state.
+
+# Sample Section
 
 Complex Editing - Delimited Edits
----------------------------------
+-------------------------------------------------
 
 Vim edit commands have another motion syntax for delimited-edits. A
 delimited-edit allows for the action to grow in both directions up to a
