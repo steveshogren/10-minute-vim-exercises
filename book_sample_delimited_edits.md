@@ -1,3 +1,7 @@
+This is a sample section from the in-progress book
+[10 Minute Vim](https://leanpub.com/deliberatevim/) available DRM-free on
+Leanpub. If you find it helpful, the book has 50+ more sections like this!
+
 Complex Editing - Delimited Edits
 ---------------------------------
 
