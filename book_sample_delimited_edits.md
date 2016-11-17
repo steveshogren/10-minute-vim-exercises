@@ -39,7 +39,7 @@ anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 
 #### Exercise - Delete
 
-Use the file [beowulf\_and\_grendel\_grapple\_.txt](region/beowulf\_and\_grendel\_grapple\_.txt). You will find a
+Use the file [beowulf\_and\_grendel\_grapple.txt](region/beowulf\_and\_grendel\_grapple.txt). You will find a
 story filled with random numbers all containing the number "0", sometimes
 surrounded with punctuation. Remove all numbers, quotes, angle brackets, curly
 brackets, square brackets, and parentheses using search `/` and delimited
