@@ -14,7 +14,7 @@ delimiters.
 
 The Delimiters are restricted to common text Delimiters. `` ( ) [ ] < > { } " ' ` w p s t `` are all valid Delimiters.
 
-
+|-----|---------------------------------------------------------------|
 | `w` | Word                                                          |
 | `p` | Paragraph                                                     |
 | `s` | Sentence                                                      |
