@@ -14,6 +14,7 @@ delimiters.
 
 The Delimiters are restricted to common text Delimiters. `` ( ) [ ] < > { } " ' ` w p s t `` are all valid Delimiters.
 
+| Command | Meaning  |
 |-----|---------------------------------------------------------------|
 | `w` | Word                                                          |
 | `p` | Paragraph                                                     |
@@ -31,7 +32,8 @@ anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 
 #### Examples
 
-
+| Command | Meaning  |
+|-----|---------------------------------------------------------------|
 | `da(` | Delete contents AND surrounding parenthesis |
 | `dis` | Delete current sentence                     |
 | `dip` | Delete inside current paragraph             |
