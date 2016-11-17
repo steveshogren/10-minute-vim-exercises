@@ -2,6 +2,12 @@ This is a sample section from the in-progress book
 [10 Minute Vim](https://leanpub.com/deliberatevim/) available DRM-free on
 Leanpub. If you find it helpful, the book has 50+ more sections like this!
 
+The included exercises _are_ contrived - they are designed to teach you the
+muscle memory needed to perform the specific command. They are designed to be
+performed on a pristine file: we recommend cloning this repository with `git
+clone git@github.com:steveshogren/10-minute-vim-exercises.git`and running a `git
+checkout` after each exercise to bring the file back to the start state.
+
 Complex Editing - Delimited Edits
 ---------------------------------
 
