@@ -53,13 +53,14 @@ anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 
 #### Exercise - Delete
 
-Use the file [region/beowulf\_and\_grendel\_grapple.txt](region/beowulf\_and\_grendel\_grapple.txt). You will find a
-story filled with random numbers all containing the number "0", sometimes
-surrounded with punctuation. Remove all numbers, quotes, angle brackets, curly
-brackets, square brackets, and parentheses using search `/` and delimited
-regions. Search for the number "0", and use `n` to find the next number. Then
-use delimited regions to swiftly delete the whole number and any surrounding
-punctuation.
+Use the file
+[region/beowulf\_and\_grendel\_grapple.txt](region/beowulf\_and\_grendel\_grapple.txt).
+You will find a story filled with random numbers all containing the number `0`,
+sometimes surrounded with punctuation. Remove all numbers, quotes, angle
+brackets, curly brackets, square brackets, and parentheses using search `/` and
+delimited regions. Search for the number "0", and use `n` to find the next
+number. Then use delimited regions to delete the whole number and any
+surrounding punctuation.
 
 #### Exercise - Change
 
