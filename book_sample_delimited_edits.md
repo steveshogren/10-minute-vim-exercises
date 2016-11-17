@@ -1,7 +1,7 @@
 Complex Editing - Delimited Edits
 ---------------------------------
 
-The edit commands have another motion syntax for delimited-edits. A
+Vim edit commands have another motion syntax for delimited-edits. A
 delimited-edit allows for the action to grow in both directions up to a
 delimiter. You must provide a both a Scope and a Delimiter. The Scope indicates
 how far the region should extend, and the Delimiter is what character the region
@@ -21,30 +21,25 @@ The Delimiters are restricted to common text Delimiters. `` ( ) [ ] < > { } " ' 
 | `s` | Sentence                                                      |
 | `t` | XML/HTML Tag (e.g. the TEXT in &lt;body&gt;TEXT&lt;/body&gt;) |
 
--   SCOPE = a i
--   DELIMITER = ( ) \[ \] &lt; &gt; { } " ' \` w p s t
--   ACTION = d y c v
--   DELIMITED\_EDIT = ACTION SCOPE DELIMITER
-
 Your cursor must be inside the Delimiter to work. Vim will grow the region in
 either direction until it finds the Delimiter, so you can place your cursor
 anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 
 #### Examples
 
-| Command | Meaning  |
-|-----|---------------------------------------------------------------|
-| `da(` | Delete contents AND surrounding parenthesis |
-| `dis` | Delete current sentence                     |
-| `dip` | Delete inside current paragraph             |
-| `diw` | Delete current word                         |
-| `daw` | Delete current word and following space     |
-| `yi<` | Yank inside of "&lt;" and "&gt;"            |
-| `vi'` | Visual select inside "'"                    |
+| Command | Meaning                                     |
+|---------|---------------------------------------------|
+| `da(`   | Delete contents AND surrounding parenthesis |
+| `dis`   | Delete current sentence                     |
+| `dip`   | Delete inside current paragraph             |
+| `diw`   | Delete current word                         |
+| `daw`   | Delete current word and following space     |
+| `yi<`   | Yank inside of &lt; and &gt;                |
+| `vi'`   | Visual select inside '                      |
 
 #### Exercise - Delete
 
-Use the file "region/beowulf\_and\_grendel\_grapple\_.txt". You will find a
+Use the file [beowulf\_and\_grendel\_grapple\_.txt](region/beowulf\_and\_grendel\_grapple\_.txt). You will find a
 story filled with random numbers all containing the number "0", sometimes
 surrounded with punctuation. Remove all numbers, quotes, angle brackets, curly
 brackets, square brackets, and parentheses using search `/` and delimited
