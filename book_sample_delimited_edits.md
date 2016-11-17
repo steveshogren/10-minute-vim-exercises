@@ -39,7 +39,7 @@ anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
 
 #### Exercise - Delete
 
-Use the file [beowulf\_and\_grendel\_grapple.txt](region/beowulf\_and\_grendel\_grapple.txt). You will find a
+Use the file [region/beowulf\_and\_grendel\_grapple.txt](region/beowulf\_and\_grendel\_grapple.txt). You will find a
 story filled with random numbers all containing the number "0", sometimes
 surrounded with punctuation. Remove all numbers, quotes, angle brackets, curly
 brackets, square brackets, and parentheses using search `/` and delimited
@@ -49,16 +49,17 @@ punctuation.
 
 #### Exercise - Visual
 
-Use the file "html\_sample.html". Capitalize using all the words inside angle
-brackets, quotes, parens, and tags. Use `v` to visually select the characters,
-then `~` to capitalize all the selected characters. For example, &lt;html&gt;
-can be changed to &lt;HTML&gt; by moving the cursor inside the angle brackets
-and typing `vi<~`
+Use the file [html\_sample.html](html\_sample.html). Capitalize using all the
+words inside angle brackets, quotes, parens, and tags. Use `v` to visually
+select the characters, then `~` to capitalize all the selected characters. For
+example, &lt;html&gt; can be changed to &lt;HTML&gt; by moving the cursor inside
+the angle brackets and typing `vi<~`
 
 #### Exercise - Yank
 
-Use the file "yank-delimited.txt" to yank and move the contents of the angle
-brackets, quotes, parens, and move it to the line below. So the line like:
+Use the file [yank-delimited.txt](yank-delimited.txt) to yank and move the
+contents of the angle brackets, quotes, parens, and move it to the line below.
+So the line like:
 
     (There is a )
     place where the sidewalk ends
