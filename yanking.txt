@@ -1,1 +1,26 @@
-1 2 3 4 YANK THIS TEXT YANK 5 6
+1 2 3 4 YANK THESE FOUR WORDS 5 6
+   put inside here -> ()
+YANK THIS WHOLE LINE NO NEWLINE
+   put inside here -> ()
+YANKTHISWORD 1 2 3 4 5
+   put inside here -> ()
+YANK THIS WHOLE LINE NO NEWLINE
+   put inside here -> ()
+YANK THIS WHOLE LINE WITH NEW LINE
+   put inside here -> ()
+4 4 YANK THESE THREE 4 4 4 
+   put inside here -> ()
+YANK THIS WHOLE LINE NO NEWLINE
+   put inside here -> ()
+YANK THIS WHOLE LINE WITH NEW LINE
+   put here -> 
+4 4 YANKTHISWORD 4 4
+   put inside here -> ()
+4 4 4 4 YANK WORDS TO END OF THE LINE WITHOUT NEWLINE
+   put inside here with capital P -> ()
+4 4 4 4 O 4 4 4 4 4 4
+   put inside here with lower p -> ()
+4 U 4 4 4 4 4 4 4 4
+   put inside here with capital P -> ()
+4 R 4 4 4 4 4 4 4 4
+   put inside here with lower p -> ()
