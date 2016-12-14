@@ -13,29 +13,39 @@ checkout` after each exercise to bring the files back to their pristine state.
 Complex Editing - Delimited Edits
 -------------------------------------------------
 
-Vim edit commands have another motion syntax for delimited-edits. A
-delimited-edit allows for the action to grow in both directions up to a
-delimiter. You must provide a both a Scope and a Delimiter. The Scope indicates
-how far the region should extend, and the Delimiter is what character the region
-should use. Your cursor must also be inside the desired Delimiters.
+Vim commands have another motion syntax for editing text objects. A text object
+edit allows for the action to grow in both directions up to a delimiter. You
+must provide a both a scope and a text object. The scope indicates how far the
+region should extend, and the text object is what character the region should
+use. Your cursor must also be inside the desired text object.
 
-The two Scopes are `a` and `i`. You can remember `a` as "All", and `i` as
-"Inside". The `a` Scope will include both the contents inside the Delimiter and
-the Delimiters as well. The `i` Scope will only include the contents inside the
-delimiters.
+The two scopes are `a` and `i`. You can remember `a` as "A", and `i` as
+"Inside". The `a` scope will include both the contents inside the text object
+and the text object as well. The `i` scope will only include the contents inside
+the text objects.
 
-The Delimiters are restricted to common text Delimiters. `` ( ) [ ] < > { } " ' ` w p s t `` are all valid Delimiters.
+The text objects are restricted to common text objects. `` ( ) [ ] < > { } " ' ` w p s t `` are all valid.
 
-| Command | Meaning  |
-|-----|---------------------------------------------------------------|
-| `w` | Word                                                          |
-| `p` | Paragraph                                                     |
-| `s` | Sentence                                                      |
-| `t` | XML/HTML Tag (e.g. the TEXT in &lt;body&gt;TEXT&lt;/body&gt;) |
+| Command | Meaning                                                       |
+|---------|---------------------------------------------------------------|
+| `w`     | Word                                                          |
+| `p`     | Paragraph                                                     |
+| `s`     | Sentence                                                      |
+| `t`     | XML/HTML Tag (e.g. the TEXT in &lt;body&gt;TEXT&lt;/body&gt;) |
 
-Your cursor must be inside the Delimiter to work. Vim will grow the region in
-either direction until it finds the Delimiter, so you can place your cursor
-anywhere inside the Delimiters. Delimited-edits also work across multiple lines.
+Your cursor must be inside the text object to work. Vim will grow the region in
+either direction until it finds the boundaries of the text object, so you can
+place your cursor anywhere inside the text object. Text object edits also work
+across multiple lines.
+
+The grammar of the text object edits:
+
+| Command          | Definition                          |
+|------------------|-------------------------------------|
+| scope            | 1a i=                               |
+| text object      | `` ( ) [ ] < > { } " ' ` w p s t `` |
+| action           | `d y c v`                           |
+| text object edit | `{action}{scope}{text object}`      |
 
 #### Examples
 
