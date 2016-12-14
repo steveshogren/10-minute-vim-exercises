@@ -1,0 +1,14 @@
+first, last, phone, email, work phone, nickname, home, work address
+Jim, Jimsmith, 999-999-HOME, jim@jim.com, CELL-888-8888, Jimmy Boy, 10 Home Ln, 15 Work Dr
+-----
+
+
+-----
+First Name:
+Last Name:
+Phone Number:
+Home Address:
+Work Address:
+Email:
+Cell:
+Nickname
