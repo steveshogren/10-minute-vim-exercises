@@ -10,7 +10,7 @@ checkout` after each exercise to bring the files back to their pristine state.
 
 # Sample Section
 
-Complex Editing - Delimited Edits
+Complex Editing - Text Object Edits
 -------------------------------------------------
 
 Vim commands have another motion syntax for editing text objects. A text object
