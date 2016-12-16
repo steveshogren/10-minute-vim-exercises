@@ -8,10 +8,10 @@ performed on a pristine file: we recommend cloning this repository with `git
 clone git@github.com:steveshogren/10-minute-vim-exercises.git`and running a `git
 checkout` after each exercise to bring the files back to their pristine state.
 
-[Sample Section: Text Object Edits](book\_sample\_delimited\_edits.md)
+Other Samples:
+* [Sample Section: Text Object Edits](book\_sample\_delimited\_edits.md)
 
-# Complex Editing - Yank Registers
--------------------------------------------------
+# Complex Editing - History Registers
 
 Vim offers you a number of registers for storing text. These registers allow you
 to yank and delete dozens of times, knowing each text block is still accessible.
@@ -24,7 +24,7 @@ is how you access the operating system's clipboard.
 
 You can always see all the active registers:
 
-| Command | Meaning                       |
+| Command |                               |
 |---------|-------------------------------|
 | `:reg`  | See contents of all registers |
 
@@ -38,11 +38,11 @@ Like any put, these can be repeated with a repetition.
 
 Examples:
 
-| Command | Meaning                                      |
+| Command |                                              |
 |---------|----------------------------------------------|
-| `​"zp`   | From "z" register, put contents              |
+| `​"zp`   | From `z` register, put contents              |
 | `​"3p`   | From number 3 history register, put contents |
-| `​"g5p`  | From "g" register, perform 5 puts            |
+| `​"g5p`  | From `g` register, perform 5 puts            |
 
 ## History Registers (aka Number Registers)
 

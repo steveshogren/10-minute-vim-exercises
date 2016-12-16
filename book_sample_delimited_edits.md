@@ -8,10 +8,10 @@ performed on a pristine file: we recommend cloning this repository with `git
 clone git@github.com:steveshogren/10-minute-vim-exercises.git`and running a `git
 checkout` after each exercise to bring the files back to their pristine state.
 
-# Sample Section
+Other Samples:
+* [Sample Section: History Registers](book\_sample\_history\_registers.md)
 
-Complex Editing - Text Object Edits
--------------------------------------------------
+# Complex Editing - Text Object Edits
 
 Vim commands have another motion syntax for editing text objects. A text object
 edit allows for the action to grow in both directions up to a delimiter. You
