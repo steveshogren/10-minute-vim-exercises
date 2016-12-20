@@ -81,7 +81,10 @@ back. Replace all of them this way, then replace `sid` with `studentId`, and
 The black hole register is used to cut, delete, or change text if you don't want
 Vim to modify your history registers.
 
-| `​"_` | Black hole register |
+
+| Command |                     |
+|---------|---------------------|
+| `​"_`    | Black hole register |
 
 A common case would be performing several deletes you want to move, then
 deleting some text you never want back. You want to keep your previous deletes
