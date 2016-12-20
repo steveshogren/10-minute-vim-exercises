@@ -75,3 +75,27 @@ the first `cid`, then typing `classId`. Yank the whole word, then search for the
 next `cid`. Use `de` to delete it, and then `​"0P` to put the last yanked text
 back. Replace all of them this way, then replace `sid` with `studentId`, and
 `d/` with `data/`.
+
+### Black Hole Register
+
+The black hole register is used to cut, delete, or change text if you don't want
+Vim to modify your history registers.
+
+| `​"_` | Black hole register |
+
+A common case would be performing several deletes you want to move, then
+deleting some text you never want back. You want to keep your previous deletes
+ready, without 
+
+### Exercise 
+
+Use the file [extra\_junk\_annabel\_lee.txt](extra\_junk\_annabel\_lee.txt) to
+practice the black hole and history registers. The poem is out of order, some of
+the lines appear too early, and you need to reorder them. Every time you find a
+line with a number that appears too soon (e.g. line 5 between lines 1 and 2),
+use `dd` to cut it into a history register. When you find a line like "EXTRA
+LINE" use `​"_dd` to delete it into the black hole register, leaving your history
+registers untouched. When you come to the correct location for a history line,
+use `​"Xp` to put it, where X is the correct history register number. On easy
+mode, you are allowed to use `:reg` to see what your history looks like. Hard
+mode is when you do it without the use of `:reg`.
