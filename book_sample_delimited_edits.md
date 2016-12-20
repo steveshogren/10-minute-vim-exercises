@@ -24,6 +24,15 @@ The two scopes are `a` and `i`. You can remember `a` as "A", and `i` as
 and the text object as well. The `i` scope will only include the contents inside
 the text objects.
 
+Note that there are caveats for white space surrounding words and
+parentheses/braces/etc. when using the `a` scope. The object will include the
+whitespace after the object and will include the whitespace before the object
+if either; there was no whitespace after the object, or the cursor was in the
+whitespace before the object prior to the operation. Note that using the closing
+parentheses/braces/etc. will exclude the white space, but the opening one will
+include it. Excluding the whitespace surrounding quotes can be achieved using
+the `i` scope with a 2 count (i.e. `d2i'`).
+
 The text objects are restricted to common text objects. `` ( ) [ ] < > { } " ' ` w p s t `` are all valid.
 
 | Command | Meaning                                                       |
