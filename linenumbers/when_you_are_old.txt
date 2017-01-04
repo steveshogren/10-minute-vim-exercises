@@ -1,39 +1,39 @@
 WHEN you are old and gray and full of sleep
-   -> 9
- 
-How many loved your moments of glad grace, 
-   -> 36
- 
-And nodding by the fire, take down this book, 
-   -> 24
- 
-Your eyes had once, and of their shadows deep; 
-   -> 6
- 
-And paced upon the mountains overhead, 
-   -> 27
- 
-And loved the sorrows of your changing face.
-   -> 21
- 
-And bending down beside the glowing bars, 
-   -> 30
- 
-And slowly read, and dream of the soft look 
    -> 12
- 
+
+And loved your beauty with love false or true; 
+   -> 24
+
 And hid his face amid a crowd of stars.
    -> 39
- 
+
+And nodding by the fire, take down this book, 
+   -> 21
+
 Murmur, a little sadly, how love fled 
-   -> 15
- 
-But one man loved the pilgrim soul in you, 
    -> 18
- 
-And loved your beauty with love false or true; 
+
+And paced upon the mountains overhead, 
+   -> 9
+
+And slowly read, and dream of the soft look 
+   -> 30
+
+But one man loved the pilgrim soul in you, 
    -> 33
- 
+
+And bending down beside the glowing bars, 
+   -> 15
+
+Your eyes had once, and of their shadows deep; 
+   -> 36
+
+And loved the sorrows of your changing face.
+   -> 27
+
+How many loved your moments of glad grace, 
+   -> 6
+
 William Butler Yeats - When You are Old
    -> 0
- 
+

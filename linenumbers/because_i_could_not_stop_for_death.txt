@@ -1,52 +1,52 @@
 Because I could not stop for Death--
 He kindly stopped for me-- 
+   -> 44
+
+The Roof was scarcely visible-- 
+The Cornice--in the Ground-- 
+   -> 48
+
+My labor and my leisure too, 
+For His Civility-- 
    -> 32
- 
+
+We passed the Fields of Gazing Grain-- 
+We passed the Setting Sun-- 
+   -> 36
+
+We slowly drove--He knew no haste 
+And I had put away 
+   -> 12
+
 Emily Dickinson - Because I could not stop for Death
  
    -> 0
- 
-For only Gossamer, my Gown-- 
-My Tippet--only Tulle-- 
-   -> 48
- 
+
+I first surmised the Horses' Heads 
+Were toward Eternity-- 
+   -> 24
+
+We passed the School, where Children strove 
+At Recess--in the Ring-- 
+   -> 16
+
+Or rather--He passed us-- 
+The Dews drew quivering and chill-- 
+   -> 52
+
+We paused before a House that seemed 
+A Swelling of the Ground-- 
+   -> 8
+
+The Carriage held but just Ourselves-- 
+And Immortality.
+   -> 20
+
 Since then--'tis Centuries--and yet 
 Feels shorter than the Day 
    -> 28
- 
-Or rather--He passed us-- 
-The Dews drew quivering and chill-- 
-   -> 12
- 
-We slowly drove--He knew no haste 
-And I had put away 
-   -> 52
- 
-I first surmised the Horses' Heads 
-Were toward Eternity-- 
-   -> 8
- 
-The Carriage held but just Ourselves-- 
-And Immortality.
-   -> 24
- 
-We passed the Fields of Gazing Grain-- 
-We passed the Setting Sun-- 
-   -> 20
- 
-The Roof was scarcely visible-- 
-The Cornice--in the Ground-- 
-   -> 16
- 
-We passed the School, where Children strove 
-At Recess--in the Ring-- 
-   -> 36
- 
-We paused before a House that seemed 
-A Swelling of the Ground-- 
+
+For only Gossamer, my Gown-- 
+My Tippet--only Tulle-- 
    -> 40
- 
-My labor and my leisure too, 
-For His Civility-- 
-   -> 44
- 
+
