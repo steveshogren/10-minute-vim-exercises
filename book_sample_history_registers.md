@@ -88,7 +88,7 @@ Vim to modify your history registers.
 
 A common case would be performing several deletes you want to move, then
 deleting some text you never want back. You want to keep your previous deletes
-ready, without 
+ready, without having them overwritten.
 
 ### Exercise 
 
