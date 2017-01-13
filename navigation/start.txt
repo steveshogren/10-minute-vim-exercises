@@ -1,0 +1,6 @@
+1
+All the world's a stage,
+And all the men and women merely players;
+They have their exits and their entrances,
+import ('poem2.txt');
+

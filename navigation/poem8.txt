@@ -1,0 +1,10 @@
+var poem9 = 'poem9.txt';
+
+8
+For his shrunk shank, and his big manly voice,
+Turning again toward childish treble, pipes
+And whistles in his sound. Last scene of all,
+
+import(poem9);
+
+

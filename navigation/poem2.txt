@@ -1,0 +1,25 @@
+var poem8 = 'poem8.txt';
+var poem6Varable = 'poem6.txt';
+
+2
+And one man in his time plays many parts,
+His acts being seven ages. At first, the infant,
+Mewling and puking in the nurse's arms.
+Then the whining schoolboy, with his satchel
+import ('poem3.txt');
+
+4
+Made to his mistress' eyebrow. Then a soldier,
+Full of strange oaths and bearded like the pard,
+Jealous in honor, sudden and quick in quarrel,
+
+import ('poem5.txt');
+import (poem6Varable);
+
+7
+Into the lean and slippered pantaloon,
+With spectacles on nose and pouch on side;
+His youthful hose, well saved, a world too wide
+
+import(poem8);
+
