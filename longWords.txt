@@ -1,0 +1,17 @@
+AopAbstractFactoryHandler
+SimpleConstructorAbstractFactoryHandler
+CacheAbstractFactoryHandler
+ContextAbstractFactoryHandler
+JdbcAbstractFactoryHandler
+JeeAbstractFactoryHandler
+JmsAbstractFactoryHandler
+LangAbstractFactoryHandler
+MvcAbstractFactoryHandler
+OxmAbstractFactoryHandler
+SimplePropertyAbstractFactoryHandler
+TaskAbstractFactoryHandler
+TxAbstractFactoryHandler
+UtilAbstractFactoryHandler
+----------------------------
+AopAbstractFactoryHandler
+...

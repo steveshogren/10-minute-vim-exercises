@@ -16,6 +16,11 @@ namespace Ns
         {
             // do more work
         }
+
+        private void HelperFunction(bool hasName, String name)
+        {
+            // do helper work
+        }
     }
 }
 /*
@@ -42,6 +47,11 @@ namespace Ns
         public void OtherFunction(bool hasName, String name)
         {
             // do more work
+        }
+
+        private void HelperFunction(bool hasName, String name)
+        {
+            // do helper work
         }
     }
 }
