@@ -10,6 +10,7 @@ checkout` after each exercise to bring the files back to their pristine state.
 
 Other Samples:
 * [Sample Section: History Registers](book\_sample\_history\_registers.md)
+* [Sample Section: OS Registers](book\_sample\_os\_registers.md)
 
 # Complex Editing - Text Object Edits
 
@@ -51,7 +52,7 @@ The grammar of the text object edits:
 
 | Command          | Definition                          |
 |------------------|-------------------------------------|
-| scope            | 1a i=                               |
+| scope            | `a i`                              |
 | text object      | `` ( ) [ ] < > { } " ' ` w p s t `` |
 | action           | `d y c v`                           |
 | text object edit | `{action}{scope}{text object}`      |

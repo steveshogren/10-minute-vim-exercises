@@ -1,5 +1,5 @@
 Fixk the spalling mistackes in thise fiile bi replecing or delating tehe
 inccorrectt chiracters. Sume of tham ned a chiracter raplaced, atherss justt
-neeed one daleted. You cen use "r" annd "x" to muke the neeedeed
+neeed one daleted. You cen use "r" annd "x" to macke the neeedeed
 transformations. Thay shouldn't takke veery loong. Imigine whut the rast of the
 buuk woold huve luuked likke withuut a spallchecker!

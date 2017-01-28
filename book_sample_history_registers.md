@@ -10,6 +10,7 @@ checkout` after each exercise to bring the files back to their pristine state.
 
 Other Samples:
 * [Sample Section: Text Object Edits](book\_sample\_delimited\_edits.md)
+* [Sample Section: OS Registers](book\_sample\_os\_registers.md)
 
 # Complex Editing - History Registers
 
