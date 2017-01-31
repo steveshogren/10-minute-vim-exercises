@@ -52,4 +52,4 @@ The file name and whole line completion will start the cycle, then you can use
 
 Use the file [longWords.txt](longWords.txt) to recreate the first 14 lines
 starting at line 16. Start typing each word, then use either `Ctrl-p`, `Ctrl-n`,
-or `Ctrl-xCtrl-f` to complete it - no copy, delete, yank, etc.
+or `Ctrl-xCtrl-l` to complete it - no copy, delete, yank, etc.
