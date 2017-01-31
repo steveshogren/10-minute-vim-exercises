@@ -16,12 +16,12 @@ Other Samples:
 
 Vim (and Vim plugins inside other IDE's) do not offer out-of-the-box
 semantic-aware IDE features like auto-complete and "go to definition". While the
-Vim editor has many plugins for extra features, by default Vim does offer a
-suite of IDE-lite commands that fulfill the "80/20" rule of value. The rule
-suggests that 80% of the value can be had for 20% of the cost. Instead of
-attempting to build a full AST of your source code for auto-complete and
-navigation, Vim provides basic navigation and auto-complete based on text
-searches of your files.
+Vim editor has many plugins for extra features, we want to focus on what can be
+had in the default experience. The base Vim installation offers a suite of
+IDE-lite commands that fulfill the "80/20" rule of value: 80% of the value can
+be had for 20% of the cost. Instead of attempting to build a full AST of your
+source code for auto-complete and navigation, Vim provides basic navigation and
+auto-complete based on text searches of your files.
 
 While in no way does this substitute for the full set of features in a
 semantic-aware IDE, they are still extremely useful. These commands derive the
