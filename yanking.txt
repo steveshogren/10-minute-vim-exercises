@@ -7,13 +7,13 @@ YANKTHISWORD 1 2 3 4 5
 YANK THIS WHOLE LINE NO NEWLINE
    put inside here -> ()
 YANK THIS WHOLE LINE WITH NEW LINE
-   put inside here -> ()
+   put below here ->
 4 4 YANK THESE THREE 4 4 4 
    put inside here -> ()
 YANK THIS WHOLE LINE NO NEWLINE
    put inside here -> ()
 YANK THIS WHOLE LINE WITH NEW LINE
-   put here -> 
+   put below here ->
 4 4 YANKTHISWORD 4 4
    put inside here -> ()
 4 4 4 4 YANK WORDS TO END OF THE LINE WITHOUT NEWLINE
