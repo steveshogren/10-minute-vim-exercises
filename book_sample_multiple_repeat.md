@@ -47,15 +47,15 @@ This is the source of name of the command `grep`!
 
 #### Exercise - Edit and Delete
 
-Use the file "ozymandias.txt" to prepend "Line " to all lines with poetry on
+Use the file [ozymandias.txt](ozymandias.txt) to prepend "Line " to all lines with poetry on
 them with a single `:g` command. Then delete the lines that do not have any
 poetry on them with a single `:g` command.
 
 #### Exercise - Move
 
-On a fresh copy of "ozymandias.txt", move all lines with just a number to the
+On a fresh copy of [ozymandias.txt](ozymandias.txt), move all lines with just a number to the
 bottom of the file.
 
 #### Exercise - Print
 
-On a fresh copy of "ozymandias.txt", print all lines with poetry.
+On a fresh copy of [ozymandias.txt](ozymandias.txt), print all lines with poetry.
