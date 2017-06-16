@@ -53,9 +53,11 @@ poetry on them with a single `:g` command.
 
 #### Exercise - Move
 
-On a fresh copy of [ozymandias.txt](ozymandias.txt), move all lines with just a number to the
-bottom of the file.
+In the file [variables.php](variables.php), move all lines that do not access
+`$array` to the bottom of the file.
 
 #### Exercise - Print
 
-On a fresh copy of [ozymandias.txt](ozymandias.txt), print all lines with poetry.
+In the file [BookCalendar.hs](BookCalendar.hs), show all function signatures by
+printing all lines with a function signature. (Hint: they have `::` after the
+function name).
