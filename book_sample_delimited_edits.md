@@ -11,6 +11,7 @@ checkout` after each exercise to bring the files back to their pristine state.
 Other Samples:
 * [Sample Section: History Registers](book\_sample\_history\_registers.md)
 * [Sample Section: Completion](book\_sample\_ctrln.md)
+* [Sample Section: Multiple Repeat](book\_sample\_multiple\_repeat.md)
 
 # Complex Editing - Text Object Edits
 
