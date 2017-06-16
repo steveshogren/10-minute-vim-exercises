@@ -8,7 +8,7 @@ performed on a pristine file: we recommend cloning this repository with `git
 clone git@github.com:steveshogren/10-minute-vim-exercises.git`and running a `git
 checkout` after each exercise to bring the files back to their pristine state.
 
-Other Samples:
+## Other Free Samples:
 * [Sample Section: History Registers](book\_sample\_history\_registers.md)
 * [Sample Section: Text Object Edits](book\_sample\_delimited\_edits.md)
 * [Sample Section: Multiple Repeat](book\_sample\_multiple\_repeat.md)
