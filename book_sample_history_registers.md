@@ -31,7 +31,7 @@ You can always see all the active registers:
 | `:reg`  | See contents of all registers |
 
 When looking at the registers, `<ENTER>` or any command will close the view. To
-paste the contents of a register, prefix your `p` command with `​"{regisiter}`.
+paste the contents of a register, prefix your `p` command with `​"{register}`.
 Like any put, these can be repeated with a repetition.
 
 |           | Grammar                    |
